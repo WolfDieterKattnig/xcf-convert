@@ -1,0 +1,13 @@
+# Konvertierte Bilder und Protokolle
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tif
+*.tiff
+*.bmp
+gimp_log.txt
+
+# Windows
+Thumbs.db
+desktop.ini

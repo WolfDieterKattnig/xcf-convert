@@ -1,0 +1,7 @@
+# Windows-Batch-Dateien immer mit CRLF
+*.bat text eol=crlf
+*.ini text eol=crlf
+
+# REST als LF
+*.py  text eol=lf
+*.md  text eol=lf
